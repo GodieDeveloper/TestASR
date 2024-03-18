@@ -1,0 +1,9 @@
+| Código  | LOC_01 |
+|:---:|:--- |
+|Lineamiento:| **(GIS) Sistema de Información Geográfica:** |
+| Declaración  | La capacidad principal de un GIS radica en la capacidad de vincular y analizar datos geográficos de diversas fuentes, permitiendo la toma de decisiones informadas sobre temas relacionados con la ubicación y la geografía.|
+|Justificación| Se deriva de la necesidad de trabajar con datos geoespaciales y aprovechar la información relacionada con la ubicación en diversas aplicaciones.  Los GIS permiten analizar datos en función de su ubicación geográfica. Los GIS permiten crear mapas interactivos y visualmente atractivos para presentar datos geoespaciales de manera efectiva.|
+|Implicaciones| Investigar y elegir una plataforma GIS que se adapte a las necesidades de la empresa enfocados en mejorar la gestión de activos, optimizar la planificación de red, o mejorar la respuesta a problemas de red, la gestión de la ubicación del cliente, entre otros. <br/> Asegúrate de que los datos geoespaciales se integren adecuadamente con los sistemas existentes de la empresa, como sistemas de gestión de redes (NMS), sistemas de información de clientes (CRM), y otros.</br> Una OB debe contar con un solo  GIS (Sistema de Información Geográfica) que tenga la capacidad para cubrir con las diferenetes nacesesidades que se presentan en una empresa de telecomunicaciones, como por ejemplo: </br> * Planificación de Red y Expansión <br/> * Análisis de Interferencias y Rendimiento de Red <br/> * Gestión de Clientes y Ubicación de Servicios <br/> * Análisis de cobertura <br/> * Análisis de zonas inseguras
+ |
+|Contexto|Location Management|
+|Escenario|* Planificación de Red y Expansión <br/> * Análisis de Interferencias y Rendimiento de Red <br/> * Gestión de Clientes y Ubicación de Servicios <br/> * Análisis de cobertura <br/> * Análisis de zonas inseguras|
